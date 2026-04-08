@@ -8,7 +8,8 @@ This is the start of my home lab. This will cover initial hardware choices, setu
 [UDR7](https://techspecs.ui.com/unifi/cloud-gateways/udr7?s=us)
 
 <h2>Tools and Skills: </h2>
-- Ethernet standards
+
+- Ethernet Standards
 - UniFi OS
 - UniFi App
 - Wifi Configuration
@@ -24,4 +25,4 @@ This router only has three 2.5GbE ports, so one will go to my personal PC, one w
 
 <img src="https://i.imgur.com/lup1yMu.jpeg" height="30%" width="30%" alt="UDR7 Back">/
 
-The switch is just plug-and-play, so there is no management to do. It connects to second computer and the Nvidia Shield media streamer.
+The switch is just plug-and-play, so there is no management to do. It connects to second computer and the Nvidia Shield media streamer. The clients connecting to it have low demand for bandwidth so limiting the 2.5GbE port to a 1GbE switch is acceptable for now. 
