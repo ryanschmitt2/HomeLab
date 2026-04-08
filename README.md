@@ -1,7 +1,7 @@
-<h1>Home Lab V1</h1>
+<h1>Home Lab</h1>
 
 <h2>Description:</h2>
-This is the start of my home lab. This will cover initial hardware choices, setup, and troubleshooting.
+This is the start of my home lab. This will cover initial hardware choices, setup, and troubleshooting. A new version of this project will be made for each gateway upgrade. Until then, all upgrades will be logged here.
 
 <h2>Upgrades: </h2>
 
