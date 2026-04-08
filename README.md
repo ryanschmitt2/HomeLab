@@ -8,16 +8,20 @@ This is the start of my home lab. This will cover initial hardware choices, setu
 [UDR7](https://techspecs.ui.com/unifi/cloud-gateways/udr7?s=us)
 
 <h2>Tools and Skills: </h2>
--Ethernet standards
--UniFi OS
--UniFi App
--Wifi Configuration
--Wifi Interference
--Plug-and-Play Switching
+- Ethernet standards
+- UniFi OS
+- UniFi App
+- Wifi Configuration
+- Wifi Interference
+- Plug-and-Play Switching
 
 <h2>Setup: </h2>
 UDR7 setup is with the UniFi App. Initial setup is easy adoption, and you set your SSID and password. Device checks for updates and runs setup. Next the user goes to unifi.ui.com and inputs their credentials to access the device. Most of the features are available on the app, but it's much easier to work within the browser UI.
 
-![UDR7_Back](https://github.com/user-attachments/assets/db613d7c-20a9-4285-8aa1-4769379c955a)
-![UDR7_Front](https://github.com/user-attachments/assets/b1049d0d-4c1a-4911-93ae-e384c550b1b8)
+<img src="https://i.imgur.com/ToHDBR9.jpeg" height="30%" width="30%" alt="UDR7"/>
 
+This router only has three 2.5GbE ports, so one will go to my personal PC, one will go to a TP-Link 8 port gigabit switch, and the last one left open for future expansion (for now). 
+
+<img src="https://i.imgur.com/lup1yMu.jpeg" height="30%" width="30%" alt="UDR7 Back">/
+
+The switch is just plug-and-play, so there is no management to do. It connects to second computer and the Nvidia Shield media streamer.
