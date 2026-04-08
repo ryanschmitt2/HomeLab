@@ -7,4 +7,4 @@ This is the start of my home lab. This will cover initial hardware choices, setu
 
 [UDR7](https://techspecs.ui.com/unifi/cloud-gateways/udr7?s=us)
 
-<h2>Tools and skills used:</h2>
+<h2>Tools and Skills: </h2>
